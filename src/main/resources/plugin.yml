@@ -1,0 +1,5 @@
+name: CustomSniperBrushes
+version: 0.0.1-SNAPSHOT
+main: com.shiniofthegami.customsniperbrushes.CustomSniperBrushes
+author: [ShiniOfTheGami]
+depend: [VoxelSniper]
