@@ -1,3 +1,10 @@
-/target/
-/src/test/
-.settings/
+target
+target/*
+src/test
+src/test/*
+.settings
+.settings/*
+.classpath
+.project
+bin
+bin/*
